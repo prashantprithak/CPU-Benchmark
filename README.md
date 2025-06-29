@@ -7,8 +7,6 @@ This project evaluates the performance of **parallel QuickSort** algorithms on a
 - **Version 1**: Naive parallel implementation with thread creation.
 - **Version 2**: Optimized implementation using **Thread Pooling**.
 
-The work is part of a Master's project in Computer Architecture, Academic Year 2024/2025.
-
 ---
 
 ## Goals
