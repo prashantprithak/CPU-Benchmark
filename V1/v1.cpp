@@ -14,7 +14,7 @@
 using namespace std;
 using namespace chrono;
 
-// ================== ENHANCED METRICS ==================
+// ================== ENHANCED METRICS ====================
 struct DetailedMetrics {
     double total_wall_time;           // الوقت الإجمالي
     double pure_computation_time;     // وقت الحوسبة الفعلي
